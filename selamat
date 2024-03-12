@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selamat Berbuka Puasa!</title>
+</head>
+<body>
+    <div style="text-align: center; padding-top: 50px;">
+        <h1>Selamat Berbuka Puasa!</h1>
+        <p>Marhaban ya Ramadan! Semoga berbuka puasamu hari ini diberkahi dan menyenangkan.</p>
+        <p>Tetaplah bersyukur dan saling berbagi kebahagiaan di bulan yang penuh berkah ini.</p>
+        <a href="https://example.com">Klik di sini</a> untuk melihat pesan selamat berbuka puasa.
+    </div>
+</body>
+</html>
